@@ -1,0 +1,11 @@
+D:\PersonLibrary\PersonLibrary\bin\Release\net8.0\PersonLibrary.deps.json
+D:\PersonLibrary\PersonLibrary\bin\Release\net8.0\PersonLibrary.dll
+D:\PersonLibrary\PersonLibrary\bin\Release\net8.0\PersonLibrary.pdb
+D:\PersonLibrary\PersonLibrary\obj\Release\net8.0\PersonLibrary.GeneratedMSBuildEditorConfig.editorconfig
+D:\PersonLibrary\PersonLibrary\obj\Release\net8.0\PersonLibrary.AssemblyInfoInputs.cache
+D:\PersonLibrary\PersonLibrary\obj\Release\net8.0\PersonLibrary.AssemblyInfo.cs
+D:\PersonLibrary\PersonLibrary\obj\Release\net8.0\PersonLibrary.csproj.CoreCompileInputs.cache
+D:\PersonLibrary\PersonLibrary\obj\Release\net8.0\PersonLibrary.dll
+D:\PersonLibrary\PersonLibrary\obj\Release\net8.0\refint\PersonLibrary.dll
+D:\PersonLibrary\PersonLibrary\obj\Release\net8.0\PersonLibrary.pdb
+D:\PersonLibrary\PersonLibrary\obj\Release\net8.0\ref\PersonLibrary.dll

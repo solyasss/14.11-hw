@@ -1,0 +1,17 @@
+D:\PersonLibrary\AcademyGroupLibrary\bin\Release\net8.0\AcademyGroupLibrary.deps.json
+D:\PersonLibrary\AcademyGroupLibrary\bin\Release\net8.0\AcademyGroupLibrary.dll
+D:\PersonLibrary\AcademyGroupLibrary\bin\Release\net8.0\AcademyGroupLibrary.pdb
+D:\PersonLibrary\AcademyGroupLibrary\bin\Release\net8.0\PersonLibrary.dll
+D:\PersonLibrary\AcademyGroupLibrary\bin\Release\net8.0\StudentLibrary.dll
+D:\PersonLibrary\AcademyGroupLibrary\bin\Release\net8.0\StudentLibrary.pdb
+D:\PersonLibrary\AcademyGroupLibrary\bin\Release\net8.0\PersonLibrary.pdb
+D:\PersonLibrary\AcademyGroupLibrary\obj\Release\net8.0\AcademyGroupLibrary.csproj.AssemblyReference.cache
+D:\PersonLibrary\AcademyGroupLibrary\obj\Release\net8.0\AcademyGroupLibrary.GeneratedMSBuildEditorConfig.editorconfig
+D:\PersonLibrary\AcademyGroupLibrary\obj\Release\net8.0\AcademyGroupLibrary.AssemblyInfoInputs.cache
+D:\PersonLibrary\AcademyGroupLibrary\obj\Release\net8.0\AcademyGroupLibrary.AssemblyInfo.cs
+D:\PersonLibrary\AcademyGroupLibrary\obj\Release\net8.0\AcademyGroupLibrary.csproj.CoreCompileInputs.cache
+D:\PersonLibrary\AcademyGroupLibrary\obj\Release\net8.0\AcademyG.7F65CCDB.Up2Date
+D:\PersonLibrary\AcademyGroupLibrary\obj\Release\net8.0\AcademyGroupLibrary.dll
+D:\PersonLibrary\AcademyGroupLibrary\obj\Release\net8.0\refint\AcademyGroupLibrary.dll
+D:\PersonLibrary\AcademyGroupLibrary\obj\Release\net8.0\AcademyGroupLibrary.pdb
+D:\PersonLibrary\AcademyGroupLibrary\obj\Release\net8.0\ref\AcademyGroupLibrary.dll

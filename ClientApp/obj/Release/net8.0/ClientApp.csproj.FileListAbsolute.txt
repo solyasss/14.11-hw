@@ -1,0 +1,14 @@
+D:\PersonLibrary\ClientApp\bin\Release\net8.0\ClientApp.exe
+D:\PersonLibrary\ClientApp\bin\Release\net8.0\ClientApp.deps.json
+D:\PersonLibrary\ClientApp\bin\Release\net8.0\ClientApp.runtimeconfig.json
+D:\PersonLibrary\ClientApp\bin\Release\net8.0\ClientApp.dll
+D:\PersonLibrary\ClientApp\bin\Release\net8.0\ClientApp.pdb
+D:\PersonLibrary\ClientApp\obj\Release\net8.0\ClientApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\PersonLibrary\ClientApp\obj\Release\net8.0\ClientApp.AssemblyInfoInputs.cache
+D:\PersonLibrary\ClientApp\obj\Release\net8.0\ClientApp.AssemblyInfo.cs
+D:\PersonLibrary\ClientApp\obj\Release\net8.0\ClientApp.csproj.CoreCompileInputs.cache
+D:\PersonLibrary\ClientApp\obj\Release\net8.0\ClientApp.dll
+D:\PersonLibrary\ClientApp\obj\Release\net8.0\refint\ClientApp.dll
+D:\PersonLibrary\ClientApp\obj\Release\net8.0\ClientApp.pdb
+D:\PersonLibrary\ClientApp\obj\Release\net8.0\ClientApp.genruntimeconfig.cache
+D:\PersonLibrary\ClientApp\obj\Release\net8.0\ref\ClientApp.dll
